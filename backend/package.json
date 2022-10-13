@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/pedrojrb/drinkSP/issues"
   },
-  "homepage": "https://github.com/pedrojrb/drinkSP#readme"
+  "homepage": "https://github.com/pedrojrb/drinkSP#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.6.5",
+    "nodemon": "^2.0.20"
+  }
 }
